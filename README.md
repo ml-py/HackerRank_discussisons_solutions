@@ -14,13 +14,13 @@ In case of contest **` HackerRank 11 TriangleQuest2 123454321 `**  it contains a
 
 In case of contest **` HackerRank 11 TriangleQuest2 123454321 `**  it contains all discusion comments from the beginning up to the date of scrapping  which was 2020-01-30.
 
-Folder named ⠀ ` pictures* ` ⠀ contains interesting screenshots from the discusion.
+Folder named ⠀` pictures* ` ⠀contains interesting screenshots from the discusion.
 
 
 ## And the contest topic is:
 
-<img    src="191018pią1432 Triangle Quest 2 _ HackerRank.htm 191018Friday143203 200% .png"   >
+<img    src="191018pią1432_TriangleQuest2.png"   >
 
 ## And if you are not a Math Wizard ⠀` aditya_storm ` (and others) ⠀provided us some explanation for math shortcut:
 
-<img    src="191018pią1432 Triangle Quest 2 _ HackerRank.htm 191025Friday011702_www.hackerrank.com_Triangle_Quest_2_Discussions_Python_HackerRank 200% .png"   >
+<img    src="191018pią1432_MathWizard.png"   >
