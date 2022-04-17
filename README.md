@@ -7,13 +7,6 @@ python_code doing sth:
 ''' output of the code '''
 ```
 
-It can be usefull to uncomment parts of prints ⠀ and ⠀ than the arrow pointing to the particular output:
-``` python 
-# print("\n==========>\n")
-```
-
-
-
 
 It can be usefull to uncomment parts of prints ⠀and ⠀than the arrow ⠀ ` print("\n==========>\n") ` ⠀ pointing to the particular output.
 
@@ -28,6 +21,6 @@ Folder named ⠀ ` pictures* ` ⠀ contains interesting screenshots from the dis
 
 <img    src="191018pią1432 Triangle Quest 2 _ HackerRank.htm 191018Friday143203 200% .png"   >
 
-## And if you are not a Math Wizard ⠀ ` aditya_storm ` (and others) ⠀ provided us some explanation for math shortcut:
+## And if you are not a Math Wizard ⠀` aditya_storm ` (and others) ⠀provided us some explanation for math shortcut:
 
 <img    src="191018pią1432 Triangle Quest 2 _ HackerRank.htm 191025Friday011702_www.hackerrank.com_Triangle_Quest_2_Discussions_Python_HackerRank 200% .png"   >
