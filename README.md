@@ -1,5 +1,9 @@
 ## HackerRank 11 TriangleQuest2 123454321 ⠀ also called ⠀ 'Demlo numbers'.
-Python files contains solutions from discusion for the specific contest.<br>  Often the solution is broken appart for small pieces ⠀so we get break points ⠀in need to give the idea of steps taken by code in order to achieve the final solution.<br> Solutions are mostly grouped by their ideas. <br> Solutions are grouped by ideas they represent. <br>  Files are written in a Jupyter notebook manner:
+### This repo contains Python files analyzing the solutions from discussions for the specific contest on HackerRank.com
+
+### This repo contains analysis of solutions from discussions on HackerRank.com for the specific contest.
+
+Often the solution is broken appart for small pieces ⠀so we get break points ⠀in need to give the idea of steps taken by code in order to achieve the final solution.<br> Solutions are mostly grouped by their ideas. <br> Solutions are grouped by ideas they represent. <br>  Files are written in a Jupyter notebook manner:
 ``` python
 ''' Author of the solution ''',  ''' maybe some comment '''
 python_code doing sth:
@@ -19,8 +23,9 @@ Folder named ⠀` pictures* ` ⠀contains interesting screenshots from the discu
 
 ## And the contest topic is:
 
-<img    src="191018pią1432_TriangleQuest2.png"   >
+<img    src="191018pią1432 TriangleQuest2 _ HackerRank.htm 191018Friday143203 x2 .png"   >
+<br> <br> <br> 
 
 ## And if you are not a Math Wizard ⠀` aditya_storm ` (and others) ⠀provided us some explanation for math shortcut:
 
-<img    src="191018pią1432_MathWizard.png"   >
+<img    src="191018pią1432 MathWizard TriangleQuest2 _ HackerRank.htm 191025Friday011702_www.hackerrank.com_Triangle_Quest_2_Discussions_Python_HackerRank x2 .png"   >
