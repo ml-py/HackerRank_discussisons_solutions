@@ -222,7 +222,7 @@ def Demlo_numbers( number: int )  ->  None :
 
 
     # print("\n==========>\n")
-    """ [+++++] ciekawe """
+    """ [+++++] ciekawe [+++++] The Best!!! ;) """
     for i in range(   1,  int(( number ))+1   ):
         print(   round(   10**(  i+0.045757490560241 -1 )   )**2   ,  end=" "  )
     ''' gudkov_m_22 9 months ago    meh... ugly but it works... '''
